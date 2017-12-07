@@ -14,7 +14,7 @@ AaloHamodulil~`hi rab~i AloE`lamiyoni
 @@@
 
 @@@
-Alr~aHom`ni Alr~aHiyomi
+Aalr~aHom`ni Alr~aHiyomi
 @@@
 
 @@@
@@ -36,3 +36,9 @@ wa laA AlD~`|l~iyoni
 @@@
 
 Bold: **bold**
+
+Test ornate:
+
+@@@
+(123)
+@@@

@@ -14,7 +14,7 @@ This is an example:
 </p>
 
 <p style="font-family: me_quran; font-size: 24; text-align: right;">
-الرَّحْمٰنِ الرَّحِيْمِ
+اَلرَّحْمٰنِ الرَّحِيْمِ
 </p>
 
 <p style="font-family: me_quran; font-size: 24; text-align: right;">
@@ -36,3 +36,9 @@ This is an example:
 </p>
 
 Bold: **bold**
+
+Test ornate:
+
+<p style="font-family: me_quran; font-size: 24; text-align: right;">
+﴾۱۲۳﴿
+</p>
