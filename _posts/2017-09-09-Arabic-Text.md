@@ -13,6 +13,9 @@ This is an example:
 اَلْحَمْدُلِلّٰهِ رَبِّ الْعٰلَمِيْنِ
 </p>
 
+<p style="font-family: me_quran; font-size: 24; text-align: right;">
+الرَّحْمٰنِ الرَّحِيْمِ
+</p>
 
 <p style="font-family: me_quran; font-size: 24; text-align: right;">
 مٰلِكِ يَوْمِ الدِّيْنِ

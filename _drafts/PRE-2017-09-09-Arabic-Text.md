@@ -13,6 +13,9 @@ bisomi All~`hi Alr~aHom`ni Alr~aHom`ni Alr~aHiyomi
 AaloHamodulil~`hi rab~i AloE`lamiyoni
 @@@
 
+@@@
+Alr~aHom`ni Alr~aHiyomi
+@@@
 
 @@@
 m`liki yawomi Ald~iyoni

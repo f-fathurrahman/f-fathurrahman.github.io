@@ -2,3 +2,4 @@ _howto
 _site
 .sass-cache
 .jekyll-metadata
+preproc_buckwalter.py
