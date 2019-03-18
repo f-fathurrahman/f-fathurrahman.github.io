@@ -6,7 +6,7 @@ categories: [Indonesian, tutorial, Python]
 
 # Instalasi Python
 
-Pada banyak distribusi Linux, Python biasanya sudah terpasang.
+Pada banyak distribusi Linux, Python biasanya sudah terpasang secara default.
 Untuk mengujinya, silakan ketik perintah berikut pada terminal.
 
 ```bash
@@ -36,7 +36,7 @@ cara yang relatif mudah: menggunakan konsol IPython.
 Pada Anaconda Navigator, Anda dapat memilih icon IPython untuk memulai konsol
 IPython (qtconsole).
 
-![IPython QtConsole]({{ site.url }}/assets/IPython_QtConsole.png)
+![IPython QtConsole]({{site.url}}/assets/IPython_QtConsole.png)
 
 # Aritmatika dan fungsi matematika sederhana
 
@@ -53,4 +53,25 @@ type(a)
 # Menampilkan teks ke layar
 
 ```python
+my_name = "Fadjar"
+print("Hello my name is " % my_name)
 ```
+
+# Tipe data khusus
+
+- List
+- Tupel
+- Dict
+- Set
+
+# Percabangan
+
+if
+
+# Perulangan
+
+```python
+for i in range(1:10):
+    print("i = ", i)
+```
+    
